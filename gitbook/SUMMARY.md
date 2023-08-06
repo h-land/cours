@@ -4,8 +4,8 @@
 
 ## À propos
 
-* [👋 Notre équipe !](a-propos/notre-equipe.md)
-* [🚀 Communauté](a-propos/communaute.md)
+* [💎 Notre équipe !](equipe/meet-the-team.md)
+* [🚀 Communauté](a-propos/vision-mission-and-focus/README.md)
 
 ## Cours
 
@@ -52,9 +52,10 @@
 
 ## Contribuer
 
-* [🤝 Participer](contribuer/participer.md)
-* [📅 Meetings](contribuer/meetings.md)
+* [🤝 Participer](participer/how-we-work-together.md)
+* [📅 Meetings](participer/meetings.md)
+* [📌 Projets](contribuer/projets.md)
 
-## Policies
+## Politique
 
-* [🌴 Politique H-Land](policies/politique-h-land.md)
+* [🌴 Politique H-Land](politique/politique-h-land.md)

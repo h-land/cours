@@ -22,7 +22,7 @@ layout:
     visible: true
 ---
 
-# 👋 Notre équipe !
+# 💎 Notre équipe !
 
 ## Bienvenue sur la page de notre équipe !
 
@@ -42,7 +42,7 @@ Nous sommes ravis de vous accueillir parmi nous et espérons que vous apprécier
 
 ### Bio
 
-Hello :wave: ! Je suis DrKush passionné du web depuis quelques années maintenant, étant en perpétuel vieille j'ai décidé de regroupé des informations pour tous, afin de rendre plus accessible mes partages, mais aussi et surtout ce que l'on me partage. Je suis principalement orienté sur des technologies web, mais ces derniers temps je me forme aux métiers de la blockchain.
+Hello :wave: ! Je suis DrKush passionné du web depuis quelques années maintenant, étant en perpétuel vieille j'ai décidé de regroupé des informations disponible pour tous, afin de rendre plus accessible mes partages, mais aussi et surtout ce que l'on me partage. Je suis principalement orienté sur des technologies web, mais ces derniers temps je me forme aux métiers de la blockchain.
 
 ## Revoli
 
