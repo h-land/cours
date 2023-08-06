@@ -1,4 +1,7 @@
 ---
+description: >-
+  H-land va permettre de stocké des ressources pertinentes, principalement
+  orienté pour un développeur web, mais pas que.
 cover: >-
   https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVhbSUyMG9mJTIwcGVvcGxlfGVufDB8fHx8MTY2MDMxNzQzNg&ixlib=rb-1.2.1&q=80
 coverY: 0
@@ -76,7 +79,7 @@ Permettre de guidée un débutant dans son apprentissage, afin d'avoir un certai
 
 [\[99-Others\]](cours/dev-web-junior/99-others.md) Le SSH ? L'UX/UI ? LightHouse, W3C, Mozilla.Observatory, ... ? Figma ? -&#x20;
 
-[\[DOCS\]](cours/dev-web-junior/docs.md)
+[\[DOCS\]](cours/dev-web-junior/docs.md) Divers ressources
 
 </details>
 
@@ -88,25 +91,25 @@ Permettre de guidée un débutant dans son apprentissage, afin d'avoir un certai
 
 [\[00-Intro\]](cours/dev-web-avance/00-intro.md) Le métier de développeur web ? sont réseaux d'action, sa mentalité, ... ? est-il obligé de codé ?
 
-\[01-Ecosystem] Quels sont les bases pour entrée en faire sont métier ? Codeur, scrum master, Product owner ?
+[\[01-Ecosystem\]](cours/dev-web-avance/01-ecosystem.md) Quels sont les bases pour entrée en faire sont métier ? Codeur, scrum master, Product owner ?
 
-\[02-Front] Quels sont les outils front à connaitre pour entrée sur le marché du developpement ?
+[\[02-Front\]](cours/dev-web-avance/02-front.md) Quels sont les outils front à connaitre pour entrée sur le marché du developpement ?
 
-\[03-Back] Comment choisir sa stack de départ ? NodeJS, Php, Rust ?
+[\[03-Back\]](cours/dev-web-avance/03-back.md) Comment choisir sa stack de départ ? NodeJS, Php, Rust ?
 
-\[04-Typescript] Est-il vraiment utile ? Pourquoi rajouter une couche sur JS ?
+[\[04-Typescript\]](cours/dev-web-avance/04-typescript.md) Est-il vraiment utile ? Pourquoi rajouter une couche sur JS ?
 
-\[05-MVC] MERN VS MEVN ? C'est quoi ? Comment les utiliser, les optimiser, les sécurisées ?
+[\[05-MVC\]](cours/dev-web-avance/05-mvc.md) MERN VS MEVN ? C'est quoi ? Comment les utiliser, les optimiser, les sécurisées ?
 
-\[06-WebSocket] Socket.io, c'est quoi ? Quels est ça force ? Qui l'utilise ?
+[\[06-WebSocket\]](cours/dev-web-avance/06-websocket.md) Socket.io, c'est quoi ? Quels est ça force ? Qui l'utilise ?
 
-\[07-SEC] Quels sont les règles à respecter pour sécuriser sont outils, website, bot, application ?
+[\[07-SEC\]](cours/dev-web-avance/07-security.md) Quels sont les règles à respecter pour sécuriser sont outils, website, bot, application ?
 
-\[08-Prod] Comment mettre en prod mon site ? les outils ? le Serveur ? anticipé certain problème (automatisation)
+[\[08-Prod\]](cours/dev-web-avance/08-production.md) Comment mettre en prod mon site ? les outils ? le Serveur ? anticipé certain problème (automatisation)
 
-\[99-Others] Tdd, Docker, patern, la gestion de projet, UML, kanban, gantt, Conception de BDD, Architecture Complexe, ... -&#x20;
+[\[99-Others\]](cours/dev-web-avance/99-others.md) Tdd, Docker, patern, la gestion de projet, UML, kanban, gantt, Conception de BDD, Architecture Complexe, ... -&#x20;
 
-\[DOCS]
+[\[DOCS\]](cours/dev-web-avance/docs.md) Divers ressources
 
 </details>
 
@@ -116,31 +119,31 @@ Permettre de guidée un débutant dans son apprentissage, afin d'avoir un certai
 
 <summary>Content</summary>
 
-\[00-Intro] C'est quoi le Web1, Web2 et le Web3 ? D'ou ça vient ? quel problematique résout il vraiment ? Y a t'il un avenir ?
+[\[00-Intro\]](cours/dev-web3/00-intro.md) C'est quoi le Web1, Web2 et le Web3 ? D'ou ça vient ? quel problematique résout il vraiment ? Y a t'il un avenir ?
 
-\[01-Ecosystem] Blockchain (& Testnet), Smart-contract, Bridge, Defi, DAO, ... c'est quoi ses truc de geek ? Les outils ?
+[\[01-Ecosystem\]](cours/dev-web3/01-ecosystem.md) Blockchain (& Testnet), Smart-contract, Bridge, Defi, DAO, ... c'est quoi ses truc de geek ? Les outils ?
 
-\[02-SMARTCONTRACT] C'est quoi un smart-contract ? Les standarts de base, erc20, erc721, erc1155, ... ?&#x20;
+[\[02-SMARTCONTRACT\]](cours/dev-web3/02-smart-contract.md) C'est quoi un smart-contract ? Les standarts de base, erc20, erc721, erc1155, ... ?&#x20;
 
-\[03-SOLIDITY] C'est quoi le solidity ? Comment l'utiliser ? c'est quoi l'EVM ?&#x20;
+[\[03-SOLIDITY\]](cours/dev-web3/03-solidity.md) C'est quoi le solidity ? Comment l'utiliser ? c'est quoi l'EVM ?&#x20;
 
-\[04-TOOLS] Quels sont les outils à utiliser dans le web3 ? hardhat, truffle, foundry, oppenzepplin, infura, metamask, ... ?&#x20;
+[\[04-TOOLS\]](cours/dev-web3/04-tools.md) Quels sont les outils à utiliser dans le web3 ? hardhat, truffle, foundry, oppenzepplin, infura, metamask, ... ?&#x20;
 
-\[05-BASIC] Comment créer un token, et faire des échanges avec sur une DAPP ? dev local&#x20;
+[\[05-BASIC\]](cours/dev-web3/05-basic.md) Comment créer un token, et faire des échanges avec sur une DAPP ? dev local&#x20;
 
-\[06-DAPP] C'est quoi une DAPP ? Comment la construire ? Quels sont ses points faibles/forts ?&#x20;
+[\[06-DAPP\]](cours/dev-web3/06-dapp.md) C'est quoi une DAPP ? Comment la construire ? Quels sont ses points faibles/forts ?&#x20;
 
-\[07-TEST] Comment réaliser les test unitaire avec chaï, mocha, ethers, ... ?&#x20;
+[\[07-TEST\]](cours/dev-web3/07-test.md) Comment réaliser les test unitaire avec chaï, mocha, ethers, ... ?&#x20;
 
-\[08-MULTICONTRAT] Comment rassemblé plusieurs contrat ensemble ? fixé un prix erc20 sur un erc721 ou erc1155 ?&#x20;
+[\[08-MULTICONTRAT\]](cours/dev-web3/08-multi-contrat.md) Comment rassemblé plusieurs contrat ensemble ? fixé un prix erc20 sur un erc721 ou erc1155 ?&#x20;
 
-\[09-SECURITY] Comprendre l'exploitation de certaines failles, re-entrancy, gas-out-limit, ...&#x20;
+[\[09-SECURITY\]](cours/dev-web3/09-security.md) Comprendre l'exploitation de certaines failles, re-entrancy, gas-out-limit, ...&#x20;
 
-\[10-ADVANCED] Créer une DAPP multi-contrat, avec les test, le deploy et intéragir avec le/les contrats.&#x20;
+[\[10-ADVANCED\]](cours/dev-web3/10-advanced.md) Créer une DAPP multi-contrat, avec les test, le deploy et intéragir avec le/les contrats.&#x20;
 
-\[99-Others]&#x20;
+[\[99-Others\] ](cours/dev-web3/99-others.md)Divers sujets tel que le pattern diamond, DAO, ...
 
-\[DOCS]
+[\[DOCS\]](cours/dev-web3/docs.md) Divers ressources
 
 </details>
 

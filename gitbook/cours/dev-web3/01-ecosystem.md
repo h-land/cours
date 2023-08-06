@@ -1,15 +1,21 @@
 ---
 description: >-
   Blockchain (& Testnet), Smart-contract, Bridge, Defi, DAO, ... c'est quoi ses
-  truc de geek ? Les outils ?
+  truc de geek ? Les outils ? l'écosystème ? Evm ou pas ?
 ---
 
 # 01-Ecosystem
 
-## Our Focus
+Explorons ces concepts liés à la blockchain et à la technologie décentralisée :
 
-{% hint style="info" %}
-**GitBook tip:** a good focus statement tells people what you're working on **right now** to get closer to achieving your vision and fulfilling your mission.
-{% endhint %}
+1. Blockchain : La blockchain est une technologie de registre distribué qui enregistre et sécurise les transactions de manière transparente et immuable. Elle fonctionne comme une chaîne de blocs, où chaque bloc contient un ensemble de transactions vérifiées et cryptographiquement liées au bloc précédent. La décentralisation et l'immuabilité de la blockchain la rendent fiable et transparente, éliminant ainsi le besoin d'une autorité centrale pour valider les transactions.
+2. Testnet : Une testnet est un environnement de test pour les développeurs et les utilisateurs de blockchain. C'est une version de la blockchain principale où les transactions et les contrats intelligents ne sont pas exécutés avec de la véritable cryptomonnaie, mais avec des jetons de test ou des monnaies factices. Cela permet aux développeurs de tester leurs applications et leurs contrats intelligents sans risquer de perdre de l'argent réel.
+3. Smart-Contract : Un smart-contract (contrat intelligent) est un code informatique auto-exécutable qui s'exécute automatiquement lorsque les conditions programmées sont remplies. Les smart-contracts sont généralement déployés sur une blockchain et peuvent être utilisés pour automatiser des accords et des processus sans nécessiter d'intermédiaires.
+4. Bridge : Un bridge (pont) est un mécanisme qui permet de connecter deux blockchains différentes. Il permet le transfert bidirectionnel d'actifs et de données entre les deux réseaux. Les bridges sont utilisés pour étendre l'interopérabilité entre les blockchains et pour faciliter les échanges entre différentes cryptomonnaies.
+5. DeFi (Finance décentralisée) : La finance décentralisée (DeFi) fait référence à un écosystème financier construit sur des blockchains décentralisées. Les protocoles DeFi permettent aux utilisateurs d'accéder à des services financiers traditionnels tels que les prêts, les emprunts, les échanges, les épargnes, etc., sans avoir besoin d'une institution financière traditionnelle. Les contrats intelligents sont au cœur des protocoles DeFi, automatisant ainsi les interactions financières.
+6. DAO (Organisation autonome décentralisée) : Une DAO (Decentralized Autonomous Organization) est une organisation décentralisée qui est gérée par des règles prédéfinies dans des contrats intelligents. Les décisions au sein d'une DAO sont prises par un vote de la communauté basé sur le consensus. Les DAO permettent une gouvernance décentralisée et une prise de décision démocratique.
+7. EVM (Ethereum Virtual Machine) : L'EVM est une machine virtuelle spécifique à Ethereum, la blockchain la plus connue pour ses contrats intelligents. L'EVM permet l'exécution des contrats intelligents sur la blockchain Ethereum en fournissant un environnement d'exécution isolé et sécurisé.
 
-Our company vision is to **be the authoritative reference point for environmentally conscious buyers** and to **encourage more sustainable business practices** through curating beautiful, practical, consciously-produced products.
+Outils et écosystème : L'écosystème de la blockchain et des technologies décentralisées est vaste et en constante évolution. Il comprend des plateformes blockchain comme Ethereum, Binance Smart Chain, Polkadot, etc., des portefeuilles de cryptomonnaies, des explorateurs de blocs, des agrégateurs de données, des protocoles DeFi, des DAO, des bridges, etc. Les développeurs peuvent utiliser des outils tels que Truffle, Hardhat, Remix, pour développer, déployer et tester des contrats intelligents. Les utilisateurs interagissent avec l'écosystème à l'aide de portefeuilles de cryptomonnaies, d'applications DeFi, de DApps et d'interfaces utilisateur décentralisées (DUI).
+
+L'écosystème blockchain est en plein essor et il existe de nombreuses opportunités pour les développeurs, les entreprises et les utilisateurs d'explorer et d'utiliser ces technologies décentralisées pour de nombreux cas d'utilisation allant de la finance à l'art, en passant par les jeux et la gouvernance. Cependant, comme il s'agit d'une technologie relativement nouvelle, des défis tels que l'évolutivité, la sécurité et l'interopérabilité doivent encore être résolus pour que ces technologies atteignent leur plein potentiel.
