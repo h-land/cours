@@ -1,3 +1,9 @@
+---
+description: >-
+  C'est quoi le Web1, Web2 et le Web3 ? D'ou ça vient ? quel problematique
+  résout il vraiment ? Y a t'il un avenir ?
+---
+
 # 00-Intro
 
 ## Our Mission

@@ -1,3 +1,9 @@
+---
+description: >-
+  Quels sont les bases pour entrée en faire sont métier ? Codeur, scrum master,
+  Product owner ?
+---
+
 # 01-Ecosystem
 
 ## Our Focus

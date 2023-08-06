@@ -1,3 +1,9 @@
+---
+description: >-
+  Blockchain (& Testnet), Smart-contract, Bridge, Defi, DAO, ... c'est quoi ses
+  truc de geek ? Les outils ?
+---
+
 # 01-Ecosystem
 
 ## Our Focus

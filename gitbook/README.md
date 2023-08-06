@@ -1,30 +1,36 @@
 ---
 description: >-
-  H-land va permettre de stocké toutes les ressources pertinentes afin de ce
-  dirigé en tant que débutant dans le web, le contenu est principalement orienté
-  pour un développeur web, mais pas que.
-cover: >-
-  https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVhbSUyMG9mJTIwcGVvcGxlfGVufDB8fHx8MTY2MDMxNzQzNg&ixlib=rb-1.2.1&q=80
+  H-land va permettre de stocké des ressources pertinentes, principalement
+  orienté pour un développeur web, mais pas que. (in progress)
+cover: .gitbook/assets/licorn.gif
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 👋 Welcome on H-Land !
 
-For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
-
-For **long-time team members**, this space will act as a reminder and allow you to find answers about admin and policies etc.
-
-
-
 Vous allez pouvoir y retrouvé tous types de ressources:
 
 * Liens
-* Pdf
+* PDF
 * Communautés
 * Vidéos
 * ...
 
-Elles proviendront pour la qasi totalitées de ressources déja existante sur le web, mais aussi de contenu créer pour l'occasion.
+Elles proviendront pour la quasi totalités de ressources déja existante sur le web, mais aussi de contenu créer pour l'occasion.
 
 {% hint style="info" %}
 Une grosse partie de la rédactions sera faites avec ChatGPT.
@@ -32,17 +38,15 @@ Une grosse partie de la rédactions sera faites avec ChatGPT.
 
 ## Objectifs
 
-Permettre de guidée un débutant dans son apprentissage, afin d'avoir un certain nombres de base & de bonne pratiques pour évolué seul, et aussi le partage de ressources & connaissances entre developpeur plus confirmés.
+Permettre de guidée un débutant dans son apprentissage, afin d'avoir un certain nombres de base et de bonne pratiques pour évolué seul, mais aussi le partage de ressources et de connaissances entre développeur plus confirmés pour progresser et facilité la veille.
 
 ## Rejoignez-nous
 
-Discord:&#x20;
+**Discord**: [https://discord.gg/AC5MGDJP7s](https://discord.gg/AC5MGDJP7s)
 
-Twitch:&#x20;
+**Twitch**: [https://twitch.tv/xdrkush](https://www.twitch.tv/xdrkush)
 
-Youtube:&#x20;
-
-Github: [https://github.com/h-land](https://github.com/h-land)
+**Github**: [https://github.com/h-land](https://github.com/h-land)
 
 ## Dev-Web-Junior
 
@@ -50,15 +54,15 @@ Github: [https://github.com/h-land](https://github.com/h-land)
 
 <summary>Content</summary>
 
-[\[00-Intro\]](cours/dev-web-junior/00-intro.md) Retrouvez les bases du web, les fondamentaux d'internet, en passant par le navigateurs web ...&#x20;
+[**\[00-Intro\]**](cours/dev-web-junior/00-intro.md) Retrouvez les bases du web, les fondamentaux d'internet, en passant par le navigateurs web ...&#x20;
 
-[\[01-Ecosystem\]](cours/dev-web-junior/01-ecosystem.md) Retrouvez les outils de bases du développement web, ide, serveur local, ...&#x20;
+[**\[01-Ecosystem\]**](cours/dev-web-junior/01-ecosystem.md) Retrouvez les outils de bases du développement web, ide, serveur local, ...&#x20;
 
-[\[02-HTML\]](cours/dev-web-junior/02-html.md) C'est quoi le balisage (html) ? Comment fonctionne une page web.&#x20;
+[**\[02-HTML\]**](cours/dev-web-junior/02-html.md) C'est quoi le balisage (html) ? Comment fonctionne une page web.&#x20;
 
-[\[03-CSS\]](cours/dev-web-junior/03-css.md) Les bases flex/grid, positionnement , alignement de vos box, responcive de quoi il s'agit ?&#x20;
+[**\[03-CSS\]**](cours/dev-web-junior/03-css.md) Les bases flex/grid, positionnement , alignement de vos box, responcive de quoi il s'agit ?&#x20;
 
-[\[04-JS\]](cours/dev-web-junior/04-js.md) Le DOM, c'est quoi ? il existe des outils pour nous simplifier la tache ? (jquery, vue, react, ...)&#x20;
+[**\[04-JS\]**](cours/dev-web-junior/04-js.md) Le DOM, c'est quoi ? il existe des outils pour nous simplifier la tache ? (jquery, vue, react, ...)&#x20;
 
 [\[05-Sass\] ](cours/dev-web-junior/05-sass.md)Optimisez son style avec sass,scss ? comment ça marche&#x20;
 

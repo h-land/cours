@@ -1,3 +1,9 @@
+---
+description: >-
+  C'est quoi un smart-contract ? Les standarts de base, erc20, erc721, erc1155,
+  ... ?
+---
+
 # 02-Smart Contract
 
 ## Our Focus

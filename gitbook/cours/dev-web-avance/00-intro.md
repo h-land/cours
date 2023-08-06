@@ -1,3 +1,9 @@
+---
+description: >-
+  Le métier de développeur web ? sont réseaux d'action, sa mentalité, ... ?
+  est-il obligé de codé ?
+---
+
 # 00-Intro
 
 ## Our Mission

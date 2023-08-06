@@ -1,3 +1,9 @@
+---
+description: >-
+  C'est quoi une DAPP ? Comment la construire ? Quels sont ses points
+  faibles/forts ?
+---
+
 # 06-Dapp
 
 ## Our Focus

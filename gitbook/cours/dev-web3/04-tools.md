@@ -1,3 +1,9 @@
+---
+description: >-
+  Quels sont les outils à utiliser dans le web3 ? hardhat, truffle, foundry,
+  oppenzepplin, infura, metamask, ... ?
+---
+
 # 04-Tools
 
 ## Our Focus

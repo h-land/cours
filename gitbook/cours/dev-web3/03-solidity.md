@@ -1,3 +1,7 @@
+---
+description: C'est quoi le solidity ? Comment l'utiliser ? c'est quoi l'EVM ?
+---
+
 # 03-Solidity
 
 ## Our Focus

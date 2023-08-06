@@ -29,8 +29,8 @@
 * [🤖 Dev Web Avancé](cours/dev-web-avance/README.md)
   * [00-Intro](cours/dev-web-avance/00-intro.md)
   * [01-Ecosystem](cours/dev-web-avance/01-ecosystem.md)
-  * [02-Front](cours/dev-web-avance/02-front.md)
-  * [03-Back](cours/dev-web-avance/03-back.md)
+  * [02-Front](cours/dev-web-avance/02-front/README.md)
+    * [03-Back](cours/dev-web-avance/02-front/03-back.md)
   * [04-Typescript](cours/dev-web-avance/04-typescript.md)
   * [05-Mvc](cours/dev-web-avance/05-mvc.md)
   * [06-WebSocket](cours/dev-web-avance/06-websocket.md)
@@ -51,7 +51,7 @@
   * [09-Security](cours/dev-web3/09-security.md)
   * [10-Advanced](cours/dev-web3/10-advanced.md)
   * [99-Others](cours/dev-web3/99-others.md)
-  * [Docs](cours/dev-web3/docs.md)
+  * [DOCS](cours/dev-web3/docs.md)
 
 ## Team
 

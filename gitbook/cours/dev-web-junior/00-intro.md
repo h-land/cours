@@ -3,6 +3,20 @@ description: >-
   Retrouvez les bases du web, les fondamentaux d'internet, en passant par le
   navigateurs web ...
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 00-Intro
@@ -53,8 +67,3 @@ graph TD
 ```
 
 Ce schéma représente Internet (le réseau global) avec différents appareils (1, 2, 3) connectés à un routeur qui est relié à un serveur. De plus, le routeur est également connecté à deux autres appareils (4, 5), chacun accédant à un site web différent.
-
-
-
-**Générer par ChatGPT**
-

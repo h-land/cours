@@ -1,10 +1,10 @@
+---
+description: >-
+  Retrouvez tous les liens qui pourront vous être utile dans vos recherches
+  d'apprentissage.
+---
+
 # DOCS
-
-## Docs-dev-web-junior
-
-## Description
-
-Retrouvez tous les liens qui pourront vous être utile dans vos recherches d'apprentissage.
 
 #### Liens
 
