@@ -21,7 +21,7 @@ Tester le code est une étape essentielle du processus de développement logicie
 
 En résumé, le processus de test logiciel comprend une variété de tests (unitaires, fonctionnels, de charge, de sécurité, etc.) ainsi que des pratiques telles que l'intégration continue, la livraison continue et les tests automatisés pour garantir la qualité du code, la stabilité et la fiabilité de l'application. Les tests jouent un rôle crucial dans le développement logiciel moderne pour assurer la satisfaction des utilisateurs et la réussite du projet.
 
-
+***
 
 ### Exemple
 

@@ -2,13 +2,13 @@
 
 * [👋 Welcome to H-Land!](README.md)
 
-## About us
+## À propos
 
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
-  * [Vision](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
-* [💖 Values](about-us/values.md)
+* [🚀 Vision, Mission & Focus](a-propos/vision-mission-and-focus/README.md)
+  * [Vision](a-propos/vision-mission-and-focus/vision.md)
+  * [Mission](a-propos/vision-mission-and-focus/mission.md)
+  * [Focus](a-propos/vision-mission-and-focus/focus.md)
+* [💖 Values](a-propos/values.md)
 
 ## Cours
 
@@ -53,14 +53,14 @@
   * [99-Others](cours/dev-web3/99-others.md)
   * [DOCS](cours/dev-web3/docs.md)
 
-## Team
+## Équipe
 
-* [👋 Meet the Team!](team/meet-the-team.md)
+* [👋 Meet the Team!](equipe/meet-the-team.md)
 
-## Collaborating
+## Participer
 
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
+* [🤝 How we Work Together](participer/how-we-work-together.md)
+* [📅 Meetings](participer/meetings.md)
 
 ## Policies
 

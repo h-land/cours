@@ -18,7 +18,7 @@ Rassembler plusieurs contrats ensemble dans un projet Ethereum est une pratique 
 
 En résumé, rassembler plusieurs contrats ensemble dans un projet Ethereum offre une approche modulaire et organisée pour le développement de DApps. Cela permet d'améliorer la réutilisation du code, la sécurité, la testabilité et l'évolutivité de votre application décentralisée. La séparation des contrats en fonctionnalités distinctes rend également le code plus clair et facilite la maintenance, ce qui est essentiel pour développer des applications robustes et fiables sur la blockchain.
 
-
+***
 
 ### Exemple
 

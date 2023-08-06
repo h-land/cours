@@ -2,11 +2,7 @@
 description: >-
   Retrouvez les bases du web, les fondamentaux d'internet, en passant par le
   navigateurs web ...
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:

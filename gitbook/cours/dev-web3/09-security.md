@@ -38,6 +38,8 @@ Pour se prémunir des risques et des failles de sécurité courantes dans les sm
 
 Se prémunir des risques et des failles de sécurité dans les smart contracts demande une approche proactive et vigilante. En adoptant une approche méthodique, en suivant les meilleures pratiques de développement et en effectuant des tests rigoureux, vous pouvez développer des smart contracts plus robustes et sécurisés pour vos applications décentralisées.
 
+***
+
 ### Exemple
 
 voici un exemple simple d'un smart contract vulnérable à la réentrance :

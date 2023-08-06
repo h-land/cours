@@ -29,7 +29,7 @@ Une API REST (Representational State Transfer) et les web services sont des conc
 
 En résumé, les API REST et les web services facilitent la communication entre différentes applications et services. Le partage d'outils open source est une pratique courante qui favorise la collaboration, l'innovation et l'enrichissement de la communauté du développement logiciel. Ces concepts sont essentiels pour le développement moderne d'applications efficaces et interconnectées.
 
-
+***
 
 ### Exemple
 

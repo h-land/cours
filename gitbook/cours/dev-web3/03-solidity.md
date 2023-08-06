@@ -24,6 +24,8 @@ L'EVM (Ethereum Virtual Machine) est la machine virtuelle qui exécute les contr
 
 L'EVM fonctionne sur chaque nœud de la blockchain Ethereum et assure la cohérence de l'exécution des contrats intelligents sur l'ensemble du réseau. C'est grâce à l'EVM que les contrats intelligents sont sécurisés, immuables et transparents, car leur exécution est vérifiée par l'ensemble du réseau décentralisé.
 
+***
+
 ### Exemple
 
 Voici un exemple simple d'un contrat en Solidity qui implémente un token ERC-20 basique. Un token ERC-20 est un type de contrat intelligent qui représente une cryptomonnaie ou un actif numérique fongible sur la blockchain Ethereum.
