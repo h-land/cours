@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome on H-Land !](README.md)
+* [👋 Welcome to H-Land!](README.md)
 
 ## About us
 
