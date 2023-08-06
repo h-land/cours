@@ -4,11 +4,8 @@
 
 ## À propos
 
-* [🚀 Vision, Mission & Focus](a-propos/vision-mission-and-focus/README.md)
-  * [Vision](a-propos/vision-mission-and-focus/vision.md)
-  * [Mission](a-propos/vision-mission-and-focus/mission.md)
-  * [Focus](a-propos/vision-mission-and-focus/focus.md)
-* [💖 Values](a-propos/values.md)
+* [👋 Notre équipe !](a-propos/notre-equipe.md)
+* [🚀 Communauté](a-propos/communaute.md)
 
 ## Cours
 
@@ -53,15 +50,11 @@
   * [99-Others](cours/dev-web3/99-others.md)
   * [DOCS](cours/dev-web3/docs.md)
 
-## Équipe
+## Contribuer
 
-* [👋 Meet the Team!](equipe/meet-the-team.md)
-
-## Participer
-
-* [🤝 How we Work Together](participer/how-we-work-together.md)
-* [📅 Meetings](participer/meetings.md)
+* [🤝 Participer](contribuer/participer.md)
+* [📅 Meetings](contribuer/meetings.md)
 
 ## Policies
 
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [🌴 Politique H-Land](policies/politique-h-land.md)
