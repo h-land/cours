@@ -56,3 +56,4 @@ Hello :wave: ! Je suis DrKush passionné du web depuis quelques années maintena
 
 👋  Contributor — 💌  — 🇫🇷&#x20;
 
+Salut, moi c'est Fri je suis passionné par internet depuis pas mal de temps et j'ai pris goût petit à petit pour le dev web, le design et la photo. Je suis sur le serveur en tant qu'administrateur, modérateur twitch, etc.. Je suis aussi là pour aider au besoins si j'ai du temps :wave:
